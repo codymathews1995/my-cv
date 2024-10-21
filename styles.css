@@ -1,0 +1,8 @@
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 5px; 
+}
+#section {
+    padding: 0px;
+}
