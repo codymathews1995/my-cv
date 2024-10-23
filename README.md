@@ -3,6 +3,8 @@
 This repository showcases my professional background, skills, and experiences while serving as a
 exercise in HTML and CSS.
 
+[Click here to view](https://codymathews1995.github.io/my-cv/)
+
 ## About Me
 
 I am a dedicated consultant in clinical research with a background in oceanic and atmospheric sciences. My professional experiences span various roles, including client services and technical writing. I am passionate about leveraging my skills in data analysis and problem-solving to drive impactful results.
